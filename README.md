@@ -1,2 +1,4 @@
-# facebook-clone
-A Facebook homepage clone. Free to sign up!
+# Facebook Clone
+A Facebook homepage clone. Use your Google account and go!!!!
+
+![alt](/img/4.png)
